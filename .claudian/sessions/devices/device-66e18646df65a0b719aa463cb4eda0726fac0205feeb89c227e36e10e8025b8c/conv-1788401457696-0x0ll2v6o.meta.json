@@ -1,0 +1,15 @@
+{
+  "id": "conv-1788401457696-0x0ll2v6o",
+  "providerId": "grok",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788401457704,
+  "lastActivityAt": 1788401512809,
+  "sessionId": "01a06508-9b98-7873-a561-58758e1fab0f",
+  "selectedModel": "grok/grok-4.6",
+  "providerState": {
+    "nativeConversationContextEstablished": true,
+    "sessionDirectory": "C:\\Users\\86133\\.grok\\sessions\\E%3A%5Cmy_vault\\01a06508-9b98-7873-a561-58758e1fab0f"
+  },
+  "linkedContentPath": "第16章.md"
+}

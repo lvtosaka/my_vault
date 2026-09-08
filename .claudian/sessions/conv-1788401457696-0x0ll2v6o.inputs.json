@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788401457696-0x0ll2v6o",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788401457754-l49izpo",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788401457683-sfolkb3",
+      "timestamp": 1788401457683,
+      "rawDisplayText": "你好",
+      "canonicalText": "你好",
+      "context": {
+        "linkedContent": {
+          "path": "第16章.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a"
+    }
+  ]
+}
